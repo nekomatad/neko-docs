@@ -33,7 +33,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Nekomata is free application daemonizer, deployer and manager">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
