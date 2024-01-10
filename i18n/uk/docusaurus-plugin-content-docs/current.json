@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Наступне",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Developing plugins": {
+    "message": "Розробка плагінів",
+    "description": "The label for category Developing plugins in sidebar tutorialSidebar"
+  }
+}
